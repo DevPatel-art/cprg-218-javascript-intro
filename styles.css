@@ -1,0 +1,11 @@
+#bulboff{
+    display: none;
+}
+body{
+    background-color: black;
+    color: #333333;
+}
+.light{
+    background-color:white;
+    color:#000000;
+}
